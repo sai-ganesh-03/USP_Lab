@@ -1,4 +1,4 @@
-#!/bib/sh
+#!/bin/sh
 ls
 echo "Enter file name"
 read f
